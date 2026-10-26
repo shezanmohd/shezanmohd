@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═════════════ HERO ═════════════ -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.svg" width="100%" alt="Mohd Shezan — Full-Stack Developer and Data Analyst"/>
+<img src="banner.svg" width="100%" alt="Mohd Shezan — Full-Stack Developer and Data Analyst"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=45&lines=Hey+there!+I'm+Shezan+%F0%9F%91%8B;I+build+full-stack+apps+that+feel+great+%F0%9F%9A%80;I+turn+raw+data+into+stories+%F0%9F%93%8A;Open+to+SDE+%26+Data+Analyst+roles+%F0%9F%92%BC" alt="typing intro"/></a>
 
@@ -17,8 +17,8 @@
 
 <a href="mailto:shezanmohd1411@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7C3AED&style=flat-square"/>
+<a href="https://github.com/shezanmohd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=shezanmohd&label=Profile+Views&color=7C3AED&style=flat-square"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1500&color=22D3EE&center=true&vCenter=true&width=600&height=50&lines=%24+cat+about.md" alt="about"/>
 <br/>
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/coder-desk.svg" width="82%" alt="Pixel coder typing at night"/>
+<img src="coder-desk.svg" width="82%" alt="Pixel coder typing at night"/>
 </div>
 
 ```python
@@ -68,7 +68,7 @@ Good design + solid engineering. I lead clubs, design for events, and compete in
 
 <!-- ═════════════ MARQUEE ═════════════ -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/tech-marquee.svg" width="100%" alt="Animated technology marquee"/>
+<img src="tech-marquee.svg" width="100%" alt="Animated technology marquee"/>
 </div>
 
 <br/>
@@ -109,7 +109,7 @@ Good design + solid engineering. I lead clubs, design for events, and compete in
 <tr>
 <td width="33%" valign="top">
 
-### 🧩 [DevExchange](https://github.com/YOUR_USERNAME/DevExchange)
+### 🧩 [DevExchange](https://github.com/shezanmohd/DevExchange)
 <img src="https://img.shields.io/badge/May_–_Jun_2026-7C3AED?style=flat-square"/>
 
 Developer Q&A platform with secure auth, questions & answers, voting, comments, profiles and media uploads — on a Backend-as-a-Service architecture.
@@ -120,7 +120,7 @@ Developer Q&A platform with secure auth, questions & answers, voting, comments, 
 </td>
 <td width="33%" valign="top">
 
-### 🎬 [VisionFlow](https://github.com/YOUR_USERNAME/VisionFlow)
+### 🎬 [VisionFlow](https://github.com/shezanmohd/VisionFlow)
 <img src="https://img.shields.io/badge/Jun_–_Jul_2026-06B6D4?style=flat-square"/>
 
 AI media-management SaaS: background removal, context-aware cropping, video compression, asset management and personalised dashboards.
@@ -131,7 +131,7 @@ AI media-management SaaS: background removal, context-aware cropping, video comp
 </td>
 <td width="33%" valign="top">
 
-### 📄 [DocuReach](https://github.com/YOUR_USERNAME/DocuReach)
+### 📄 [DocuReach](https://github.com/shezanmohd/DocuReach)
 <img src="https://img.shields.io/badge/Sep_–_Oct_2025-F472B6?style=flat-square"/>
 
 AI document processing for identity verification: AWS Textract OCR, fuzzy name matching, role-based access, scan history and email notifications.
@@ -149,14 +149,14 @@ AI document processing for identity verification: AWS Textract OCR, fuzzy name m
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1500&color=FACC15&center=true&vCenter=true&width=700&height=50&lines=%24+.%2Fanalytics+--run" alt="data projects"/>
 <br/>
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/data-dashboard.svg" width="82%" alt="Pixel data analyst with live dashboard"/>
+<img src="data-dashboard.svg" width="82%" alt="Pixel data analyst with live dashboard"/>
 </div>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 📱 [Mobile Sales Dashboard](https://github.com/YOUR_USERNAME/Mobile-Sales-Dashboard)
+### 📱 [Mobile Sales Dashboard](https://github.com/shezanmohd/Mobile-Sales-Dashboard)
 <img src="https://img.shields.io/badge/May_–_Jun_2026-F2C811?style=flat-square&labelColor=444"/>
 
 KPI cards, slicers & drill-downs across brands, models and payment methods, with **MTD** and **Same-Period-Last-Year** comparisons.
@@ -166,7 +166,7 @@ KPI cards, slicers & drill-downs across brands, models and payment methods, with
 </td>
 <td width="33%" valign="top">
 
-### 🌾 [Agriculture Data Analysis](https://github.com/YOUR_USERNAME/Agriculture-Data-Analysis)
+### 🌾 [Agriculture Data Analysis](https://github.com/shezanmohd/Agriculture-Data-Analysis)
 <img src="https://img.shields.io/badge/Jun_–_Jul_2026-29B5E8?style=flat-square"/>
 
 Raw Karnataka data in **S3** → IAM-secured transfer → **Snowflake** transforms & SQL profiling → Power BI yield dashboard.
@@ -176,7 +176,7 @@ Raw Karnataka data in **S3** → IAM-secured transfer → **Snowflake** transfor
 </td>
 <td width="33%" valign="top">
 
-### 🛍️ [Customer Shopping Analytics](https://github.com/YOUR_USERNAME/Customer-Shopping-Analytics)
+### 🛍️ [Customer Shopping Analytics](https://github.com/shezanmohd/Customer-Shopping-Analytics)
 <img src="https://img.shields.io/badge/May_–_Jun_2026-EC4899?style=flat-square"/>
 
 Pandas cleaning pipeline, **10 SQL queries** with window functions & CTEs, and a multi-filter Power BI dashboard on MS SQL Server.
@@ -191,7 +191,7 @@ Pandas cleaning pipeline, **10 SQL queries** with window functions & CTEs, and a
 
 <!-- ═════════════ RUNNER DIVIDER ═════════════ -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/runner.svg" width="100%" alt="Pixel coder running and collecting skills"/>
+<img src="runner.svg" width="100%" alt="Pixel coder running and collecting skills"/>
 </div>
 
 <br/>
@@ -201,21 +201,21 @@ Pandas cleaning pipeline, **10 SQL queries** with window functions & CTEs, and a
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1500&color=34D399&center=true&vCenter=true&width=600&height=50&lines=%24+top+--stats" alt="stats"/>
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=F472B6"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shezanmohd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=F472B6"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shezanmohd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=22D3EE&currStreakLabel=A78BFA"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shezanmohd&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=22D3EE&currStreakLabel=A78BFA"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=7C3AED&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shezanmohd&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=7C3AED&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shezanmohd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 
 <br/><br/>
 
 <!-- Animated contribution snake (needs the included GitHub Action to run once) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shezanmohd/shezanmohd/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/shezanmohd/shezanmohd/output/github-snake.svg" width="100%">
 </picture>
 
 </div>
@@ -262,7 +262,7 @@ Pandas cleaning pipeline, **10 SQL queries** with window functions & CTEs, and a
 
 <a href="mailto:shezanmohd1411@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/shezanmohd"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
